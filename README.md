@@ -1,4 +1,4 @@
-# BLS Case Study – RAG, Multi‑Query Reasoning & API Integration
+# SEC-10K Data Analysis – RAG, Multi‑Query Reasoning & API Integration
 
 ## Overview
 
@@ -9,7 +9,6 @@ This case study demonstrates an end‑to‑end **LLM application pipeline** comb
 ## Repository Structure
 
 * `BLS_Assignment.ipynb` – Main notebook containing all experiments and results
-* `data/` – PDF documents used for RAG (company annual reports)
 * `README.md` – Project documentation
 
 ---
